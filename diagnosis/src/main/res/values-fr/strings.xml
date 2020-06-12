@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="touch_test_title">Test tactile</string>
+    <string name="touch_test_message">Pour ce test, vous allez devoir toucher toutes les zones pour s\'assurer que l\'écran tactile fonctionne correctement</string>
+    <string name="i_understand">J\'ai compris</string>
+    <string name="loading_message">Envoi du diagnostique en cours…</string>
+    <string name="diagnosis_success">Diagnostique envoyé avec succès !</string>
+</resources>

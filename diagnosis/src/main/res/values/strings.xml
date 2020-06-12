@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="touch_test_title">Touch test</string>
+    <string name="touch_test_message">For this test, you must click everywhere on your screen to make sure it works correctly</string>
+    <string name="i_understand">I understand</string>
+    <string name="loading_message">Sending diagnosis…</string>
+    <string name="diagnosis_success">Diagnosis sent with success!</string>
+</resources>

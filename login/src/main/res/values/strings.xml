@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="emai_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Log_in">Log in</string>
+    <string name="login_error_title">Log in failed</string>
+    <string name="login_error_missingemail">You must provide a valid email address.</string>
+    <string name="login_error_missingpassword">You must provide a password to log in.</string>
+</resources>

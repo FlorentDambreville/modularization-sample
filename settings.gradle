@@ -1,0 +1,7 @@
+rootProject.name='Test BackMarket'
+include ':app'
+include ':login'
+include ':navigation'
+include ':core'
+include ':diagnosis'
+include ':entity'

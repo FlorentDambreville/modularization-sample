@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Modularization sample</string>
+    <string name="title_login">Login</string>
+    <string name="title_diagnosis">Diagnosis</string>
+</resources>
